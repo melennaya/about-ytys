@@ -1197,6 +1197,17 @@ body {
     border-bottom: 1px solid #c8cfdf;
     z-index: 1000;
 }
+#header .st-twitter-counter{
+    padding-bottom: 17px;
+}
+#header .stButton .stHBubble{
+    top: 2px;
+}
+#header .stBubble_hcount{
+    position: relative;
+    top: -2px;
+}
+
 #header .float-right a{
     display: inline-block;
     width: 22px;
@@ -1247,7 +1258,9 @@ body {
     margin-top: -50px;
 }
 
-
+#top-block .img-wrap img{
+    width: 200px;
+}
 .align-center {
     text-align: center;
 }
@@ -1273,7 +1286,7 @@ body {
 }
 #features .no{
     display: block;
-    font-family: 'Open Sans', sans-serif;
+    font-family: Georgia, sans-serif;
     font-size: 28px;
     padding-left: 10px;
 }
@@ -1285,7 +1298,7 @@ body {
     font-weight: bold;
     margin-right: 15px;
     vertical-align: middle;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: Impact, Helvetica, Arial, sans-serif;
 }
 
 #features .align-left img {
